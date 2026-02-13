@@ -26,7 +26,7 @@
 
 ## 🤝 Connect with Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/ron-omer)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ron-omer)
 - 📧 ronomer4@email.com
 
 ---
