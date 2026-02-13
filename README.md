@@ -7,7 +7,7 @@
 ---
 ## 🧑‍💻 About Me
 
-- 🎓 I'm currently a 2nd-year Computer Science student at **Ruppin Academic Center**
+- 🎓 I'm currently a 3rd-year Computer Science student at **Ruppin Academic Center**
 - 💡 Passionate about: `Java`, `C#`, `C`, `Python`, `HTML`, `CSS`, `JavaScript`, `Linux`
 - 🛠️ Experienced in building logic-based applications, UI development, and algorithms
 - 📈 Always looking to grow as a software developer and work on real-world projects
